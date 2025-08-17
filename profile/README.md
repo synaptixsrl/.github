@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Synaptix/.github/blob/main/profile/Logo_sfondo_nero.jpg" alt="Synaptix Logo" width="300"/>
+  <img src="https://github.com/synaptixsrl/.github/blob/main/profile/Logo_sfondo_nero.jpg" alt="Synaptix Logo" width="300"/>
 </p>
 
 ---
