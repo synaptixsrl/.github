@@ -60,8 +60,8 @@ Crediamo nella forza della **community** e delle **partnership**.
 ---
 
 ## Contatti
-📧 **Email**: team@synaptix.dev  
-🌐 **Website**: [www.synaptix.dev](https://www.synaptix.dev)  
+📧 **Email**: info@synaptix.it  
+🌐 **Website**: [www.synaptix.it](https://www.synaptix.it)  
 
 ---
 
